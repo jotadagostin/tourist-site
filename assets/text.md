@@ -10,3 +10,6 @@ font-style: normal;
 font-variation-settings:
 "wdth" 100;
 }
+
+-trabalhar melhor as divs, estao mal posicionadas...
+deixar os containers mais centralizados
