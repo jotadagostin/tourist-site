@@ -5,7 +5,57 @@
   background-color: #f5f4f0;
 }
 
+/*Div title_page and div Description_image CSS starts here: */
 .title_page {
-  margin-left: 76px;
-  margin-top: 88px;
+  margin: 88px 84px 40px 84px;
+}
+
+.headline {
+  color: #e1624f;
+  font-family: "Open Sans", sans-serif;
+  font-size: 16px;
+  font-weight: bold;
+  margin-bottom: 8px;
+}
+
+h1 {
+  color: #1b1b1b;
+  font-family: "Open Sans", sans-serif;
+  font-size: 36px;
+  font-weight: bold;
+  margin-bottom: 40px;
+}
+
+.description_image {
+  width: 1120px;
+  height: 736px;
+  display: flex;
+  flex-direction: column;
+  align-items: left;
+}
+
+.description_image img {
+  width: 1300px;
+  height: 660px;
+  margin: 88px 84px 40px 84px;
+}
+
+.description_image p {
+  color: #333;
+  font-family: "Open Sans", sans-serif;
+  font-size: 16px;
+  text-align: center;
+}
+
+#content_list .divisor {
+  width: 1300px;
+  margin: 88px 84px 40px 84px;
+}
+
+/*Div title_page and div Description_image CSS ends  here: */
+
+/* Section CSS starts here: */
+
+.title {
+  margin: 88px 84px 40px 84px;
 }
