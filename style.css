@@ -5,27 +5,7 @@
   background-color: #f5f4f0;
 }
 
-h1 {
-  font-size: 36px;
-  font-family: "Open Sans", sans-serif;
-  margin: 8px 76px 40px 84px;
-}
-
-h2 {
-  color: #e1624f;
-  font-size: 16px;
-  font-family: "Open Sans", sans-serif;
-  font-weight: bold;
-  text-transform: uppercase;
-  margin: 88px 76px 8px 84px;
-}
-
-.busan_titles_container {
-  width: 100%;
-}
-
-.busan_titles__img {
-  width: 1120px;
-  height: 660px;
-  margin: 20px 76px 0 84px;
+.title_page {
+  margin-left: 76px;
+  margin-top: 88px;
 }
