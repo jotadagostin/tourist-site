@@ -27,11 +27,12 @@ h1 {
 }
 
 .description_image {
-  width: 1120px;
+  width: auto;
   height: 736px;
   display: flex;
   flex-direction: column;
-  align-items: left;
+  align-items: center;
+  padding: 0 84px 0 84px;
 }
 
 .description_image img {
@@ -45,11 +46,12 @@ h1 {
   font-family: "Open Sans", sans-serif;
   font-size: 16px;
   text-align: center;
+  width: 100%;
 }
 
 #content_list .divisor {
   width: 1300px;
-  margin: 88px 84px 40px 84px;
+  margin: 130px 84px 40px 84px;
 }
 
 /*Div title_page and div Description_image CSS ends  here: */
@@ -58,4 +60,16 @@ h1 {
 
 .title {
   margin: 88px 84px 40px 84px;
+}
+
+.title_list p {
+  color: #333;
+  font-family: "Open Sans", sans-serif;
+  font-size: 16px;
+  margin: 8px 84px 64px 84px;
+}
+
+.card_travel img {
+  width: 1300px;
+  margin-left: 84px;
 }
