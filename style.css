@@ -66,10 +66,59 @@ h1 {
   color: #333;
   font-family: "Open Sans", sans-serif;
   font-size: 16px;
-  margin: 8px 84px 64px 84px;
+  margin: 20px 84px 64px 84px;
 }
 
 .card_travel img {
   width: 1300px;
   margin-left: 84px;
 }
+
+.content_card h3 {
+  color: #333;
+  font-family: "Open Sans", sans-serif;
+  font-size: 28px;
+  font-weight: bold;
+  margin: 8px 84px 4px 84px;
+}
+
+.content_card p {
+  color: #1b1b1b;
+  font-family: "Open Sans", sans-serif;
+  margin: 8px 84px 4px 84px;
+}
+
+.content_card ul {
+  font-family: "Open Sans", sans-serif;
+  font-size: 16px;
+  font-weight: bold;
+  color: #333;
+  margin: 25px 0 48px 88px;
+}
+
+.content_card li {
+  color: #0c51a7;
+  margin-left: 25px;
+}
+
+main p {
+  color: #333;
+  font-family: "Open Sans", sans-serif;
+  font-size: 16px;
+  font-weight: normal;
+  text-align: center;
+  margin: 5px 88px 5px 88px;
+}
+
+footer {
+  color: #1b1b1b;
+  font-family: "Open Sans", sans-serif;
+  font-size: 16px;
+  font-weight: bold;
+  text-align: center;
+  margin: 58px 0 48px 0;
+}
+
+/* Media Queries CSS starts here: */
+
+/* Media Queries CSS ends here: */
